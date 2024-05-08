@@ -1,0 +1,6 @@
+2024/05/08-16:06:32.230 6d60 Creating DB C:/Users/hanna/OneDrive/Desktop/Astray/Astray/Astray/Saved/webcache_4430\IndexedDB\https_www.youtube-nocookie.com_0.indexeddb.leveldb since it was missing.
+2024/05/08-16:06:32.235 6d60 Reusing MANIFEST C:/Users/hanna/OneDrive/Desktop/Astray/Astray/Astray/Saved/webcache_4430\IndexedDB\https_www.youtube-nocookie.com_0.indexeddb.leveldb/MANIFEST-000001
+2024/05/08-16:14:18.673 2a3c Level-0 table #5: started
+2024/05/08-16:14:18.679 2a3c Level-0 table #5: 1167 bytes OK
+2024/05/08-16:14:18.680 2a3c Delete type=0 #3
+2024/05/08-16:14:18.680 2a3c Manual compaction at level-0 from (begin) .. (end); will stop at (end)
