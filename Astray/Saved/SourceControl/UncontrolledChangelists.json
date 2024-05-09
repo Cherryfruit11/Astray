@@ -7,7 +7,27 @@
 			"files": [
 				"C:/Users/liamk/OneDrive/Documents/Astray/Astray/Content/StarterContent/Blueprints/Blueprint_CeilingLight.uasset",
 				"C:/Users/liamk/OneDrive/Documents/Astray/Astray/Content/Levels/cherrys-lvl.umap",
-				"C:/Users/liamk/OneDrive/Documents/Astray/Astray/Content/Levels/Liams-lvl.umap"
+				"C:/Users/liamk/OneDrive/Documents/Astray/Astray/Content/Levels/Liams-lvl.umap",
+				"C:/Users/liamk/OneDrive/Documents/Astray/Astray/Content/Monsters/Anyx/Ch30_1001_Diffuse.uasset",
+				"C:/Users/liamk/OneDrive/Documents/Astray/Astray/Content/Monsters/Anyx/Ch30_1001_Glossiness.uasset",
+				"C:/Users/liamk/OneDrive/Documents/Astray/Astray/Content/Monsters/Anyx/Ch30_1001_Normal.uasset",
+				"C:/Users/liamk/OneDrive/Documents/Astray/Astray/Content/Monsters/Anyx/Ch30_1001_Specular.uasset",
+				"C:/Users/liamk/OneDrive/Documents/Astray/Astray/Content/Monsters/Anyx/Ch30_1002_Diffuse.uasset",
+				"C:/Users/liamk/OneDrive/Documents/Astray/Astray/Content/Monsters/Anyx/Ch30_1002_Glossiness.uasset",
+				"C:/Users/liamk/OneDrive/Documents/Astray/Astray/Content/Monsters/Anyx/Ch30_1002_Normal.uasset",
+				"C:/Users/liamk/OneDrive/Documents/Astray/Astray/Content/Monsters/Anyx/Ch30_1002_Specular.uasset",
+				"C:/Users/liamk/OneDrive/Documents/Astray/Astray/Content/Monsters/Anyx/Ch30_Body.uasset",
+				"C:/Users/liamk/OneDrive/Documents/Astray/Astray/Content/Monsters/Anyx/Ch30_Body1.uasset",
+				"C:/Users/liamk/OneDrive/Documents/Astray/Astray/Content/Monsters/Anyx/Ch30_nonPBR__1_.uasset",
+				"C:/Users/liamk/OneDrive/Documents/Astray/Astray/Content/Monsters/Anyx/Ch30_nonPBR__1__PhysicsAsset.uasset",
+				"C:/Users/liamk/OneDrive/Documents/Astray/Astray/Content/Monsters/Anyx/Ch30_nonPBR__1__Skeleton.uasset",
+				"C:/Users/liamk/OneDrive/Documents/Astray/Astray/Content/Monsters/Anyx/animations/Walking__2_.uasset",
+				"C:/Users/liamk/OneDrive/Documents/Astray/Astray/Content/Monsters/Anyx/Anyx_Ai.uasset",
+				"C:/Users/liamk/OneDrive/Documents/Astray/Astray/Content/Monsters/Anyx/animations/Walk_Anyx.uasset",
+				"C:/Users/liamk/OneDrive/Documents/Astray/Astray/Content/Monsters/Anyx/animations/AP_Anyx.uasset",
+				"C:/Users/liamk/OneDrive/Documents/Astray/Astray/Content/Monsters/Anyx/animations/Orc_Idle.uasset",
+				"C:/Users/liamk/OneDrive/Documents/Astray/Astray/Content/Monsters/Anyx/animations/Zombie_Attack.uasset",
+				"C:/Users/liamk/OneDrive/Documents/Astray/Astray/Content/Monsters/Anyx/animations/Zombie_Run.uasset"
 			]
 		}
 	]
