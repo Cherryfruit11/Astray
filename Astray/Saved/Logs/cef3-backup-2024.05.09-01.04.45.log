@@ -1,0 +1,5 @@
+[0509/130118.399:WARNING:value_store_frontend.cc(45)] Reading mhjfbmdgcfjbbpaeojofohoefgiehjai.alarms from  failed: IO error: .../MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[0509/130316.615:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is disabled
+[0509/130445.140:ERROR:cache_util_win.cc(20)] Unable to move the cache: Access is denied. (0x5)
+[0509/130445.141:ERROR:cache_util.cc(144)] Unable to move cache folder C:/Users/hanna/OneDrive/Desktop/Astray/Astray/Astray/Saved/webcache_4430\Cache to C:/Users/hanna/OneDrive/Desktop/Astray/Astray/Astray/Saved/webcache_4430\old_Cache_000
+[0509/130445.141:ERROR:disk_cache.cc(184)] Unable to create cache
