@@ -1,3 +1,6 @@
-2024/05/10-12:49:04.816 6cc8 Reusing MANIFEST C:/Users/hanna/OneDrive/Desktop/Astray/Astray/Astray/Saved/webcache_4430\Local Storage\leveldb/MANIFEST-000001
-2024/05/10-12:49:04.817 6cc8 Recovering log #3
-2024/05/10-12:49:04.817 6cc8 Reusing old log C:/Users/hanna/OneDrive/Desktop/Astray/Astray/Astray/Saved/webcache_4430\Local Storage\leveldb/000003.log 
+2024/05/17-22:34:24.053 62ec Reusing MANIFEST C:/Users/hanna/OneDrive/Desktop/Astray/Astray/Astray/Saved/webcache_4430\Local Storage\leveldb/MANIFEST-000001
+2024/05/17-22:34:24.058 62ec Recovering log #3
+2024/05/17-22:34:24.058 62ec Reusing old log C:/Users/hanna/OneDrive/Desktop/Astray/Astray/Astray/Saved/webcache_4430\Local Storage\leveldb/000003.log 
+2024/05/17-22:35:59.857 11e8 Level-0 table #5: started
+2024/05/17-22:35:59.860 11e8 Level-0 table #5: 21840 bytes OK
+2024/05/17-22:35:59.861 11e8 Delete type=0 #3
