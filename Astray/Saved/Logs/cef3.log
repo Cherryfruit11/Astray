@@ -1,7 +1,6 @@
-[0510/140618.668:ERROR:database.cc(1707)] Cookie sqlite error 13, errno 112: database or disk is full, sql: COMMIT
-[0510/140618.680:ERROR:database.cc(1707)] Cookie sqlite error 13, errno 112: database or disk is full, sql: COMMIT
-[0510/140618.687:ERROR:disk_cache.cc(184)] Unable to create cache
-[0510/140619.056:ERROR:database.cc(1707)] ReportingAndNEL sqlite error 14, errno -2: unable to open database file, sql: -- sqlite3_open()
-[0510/140620.631:ERROR:database.cc(1707)] ReportingAndNEL sqlite error 14, errno -2: unable to open database file, sql: -- sqlite3_open()
-[0510/140626.663:ERROR:disk_data_allocator.cc(174)] DISK: Cannot write to disk. written = -1 FILE_ERROR_FAILED
-[0510/140818.453:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is disabled
+[0520/195912.330:WARNING:spdy_session.cc(3431)] Received HEADERS for invalid stream 367
+[0520/195912.330:WARNING:spdy_session.cc(3431)] Received HEADERS for invalid stream 369
+[0520/195912.330:WARNING:spdy_session.cc(3431)] Received HEADERS for invalid stream 373
+[0520/195912.330:WARNING:spdy_session.cc(3431)] Received HEADERS for invalid stream 375
+[0520/195912.330:WARNING:spdy_session.cc(3431)] Received HEADERS for invalid stream 371
+[0520/195912.439:WARNING:spdy_session.cc(3431)] Received HEADERS for invalid stream 379
