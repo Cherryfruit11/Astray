@@ -1,11 +1,0 @@
-<<<<<<< HEAD
-[0520/195912.330:WARNING:spdy_session.cc(3431)] Received HEADERS for invalid stream 367
-[0520/195912.330:WARNING:spdy_session.cc(3431)] Received HEADERS for invalid stream 369
-[0520/195912.330:WARNING:spdy_session.cc(3431)] Received HEADERS for invalid stream 373
-[0520/195912.330:WARNING:spdy_session.cc(3431)] Received HEADERS for invalid stream 375
-[0520/195912.330:WARNING:spdy_session.cc(3431)] Received HEADERS for invalid stream 371
-[0520/195912.439:WARNING:spdy_session.cc(3431)] Received HEADERS for invalid stream 379
-=======
-[0529/235048.302:WARNING:value_store_frontend.cc(45)] Reading mhjfbmdgcfjbbpaeojofohoefgiehjai.alarms from  failed: IO error: .../MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
-[0529/235241.907:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is disabled
->>>>>>> Cherrys-Branch
